@@ -94,7 +94,7 @@ function Contactus() {
                         data-aos="zoom-in"
                         style={{ backgroundColor: "#4e382a",color:"white" }}
                         type="button"
-                        value="Send Message"
+                        value="Send Meessage"
                         class="btn  rounded-4 py-2 px-4"
                       />
                       <span class="submitting"></span>
