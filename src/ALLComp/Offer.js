@@ -5,9 +5,7 @@ import "aos/dist/aos.css";
 
 function Offer() {
     
-    useEffect(() => {
-        Aos.init({ duration: 2000 });
-      }, []);
+   
      
   return (
     <section id ="offer">

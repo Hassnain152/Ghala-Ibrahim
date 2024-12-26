@@ -6,9 +6,7 @@ import whtsapp from"./IMGs/bbv.png";
 import "./whtsap.css"
 function Contactus() {
   const googleMapsUrl = `https://maps.app.goo.gl/WFCBSiLiaEgiCbXy8?g_st=ic`;
-    useEffect(() => {
-        Aos.init({ duration: 2000 });
-      }, []);
+   
   return (
     <>
     <section id="Contactus">

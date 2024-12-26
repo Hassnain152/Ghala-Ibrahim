@@ -27,9 +27,7 @@ import Vect2 from "./IMGs/Vect2.jpeg"
 
 
 function Projects() {
-    useEffect(() => {
-        Aos.init({ duration: 2000 });
-      }, []);
+   
   return (
     <>
     

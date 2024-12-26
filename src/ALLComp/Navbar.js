@@ -10,9 +10,7 @@ import "aos/dist/aos.css";
 function Navbar() {
   const [isNavCollapsed, setIsNavCollapsed] = useState(true);
 
-  useEffect(() => {
-    Aos.init({ duration: 2000 });
-  }, []);
+  
 
   const toggleNavbar = () => {
     setIsNavCollapsed(!isNavCollapsed);

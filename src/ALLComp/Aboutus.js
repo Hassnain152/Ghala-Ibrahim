@@ -4,9 +4,7 @@ import "aos/dist/aos.css";
 // import "./AboutUs.css";
 
 const AboutUs = () => {
-     useEffect(() => {
-            Aos.init({ duration: 2000 });
-          }, []);
+    
   return (
     <section  id="Aboutus">
       <div className="container text-center">
