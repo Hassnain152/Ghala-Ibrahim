@@ -13,7 +13,7 @@ function Clients() {
         
        
     <div class="row text-center mt-3">
-    <h1 class="col-md-12 text-center" style={{fontSize:50, color:"#4e382a"}}  data-aos="zoom-in-left">Our Clients</h1>
+    <h1 class="col-md-12 text-center" style={{fontSize:50, color:"#4e382a"}}  data-aos="zoom-in-right">Our Clients</h1>
         <div class="col-md-4">
             <h3 data-aos="zoom-in-right"  style={{color:"#4e382a"}}> ➤ Shaza hotel</h3>
         </div>
