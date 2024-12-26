@@ -21,6 +21,7 @@ import new1 from "./IMGs/n1.jpg"
 import new2 from "./IMGs/n2.jpg"
 import new3 from "./IMGs/n3.jpg"
 import vectr from "./IMGs/Vect.jpeg"
+import Vect2 from "./IMGs/Vect2.jpeg"
 
 
 
@@ -208,7 +209,7 @@ function Projects() {
               class="card  card-body rounded "
               style={{ width: "18rem" }}
             >
-              <img style={{width: "254.67px",height: "191px", border: '1px solid #021a40'}}  src={vectr} class="card-img-top" />
+              <img style={{width: "254.67px",height: "191px", border: '1px solid #021a40'}}  src={Vect2} class="card-img-top" />
               <div class="card-body ">
                 <p class="card-text" style={{ color: "#673131" }}>
              Vectoria Secret
