@@ -4,10 +4,10 @@ import slide3 from  "./IMGs/opop.png"
 import Six from "./IMGs/6.jpg"
 import one from "./IMGs/1.jpg";
 import seven from "./IMGs/7.jpg"
-import eight from "./IMGs/8.jpg"
+import vectt from "./IMGs/Vect.jpeg"
 import new4 from "./IMGs/n4.jpg"
 import nav1 from "./IMGs/nav11.png"
-import nav2 from "./IMGs/nav22.png"
+import nav2n from "./IMGs/nav22.png"
 import new1 from "./IMGs/n1.jpg"
 import new2 from "./IMGs/n2.jpg"
 import new3 from "./IMGs/n3.jpg"
@@ -31,12 +31,12 @@ function Home() {
                    
                 </div>
                 <div>
-                    <img src={seven} />
+                    <img src={nav2n} />
                   
                 </div>
 
                 <div>
-                    <img src={slide1} />
+                    <img src={new3} />
                   
                 </div>
             </Carousel>
