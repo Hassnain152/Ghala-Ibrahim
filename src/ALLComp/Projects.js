@@ -26,9 +26,9 @@ import vectr from "./IMGs/Vect.jpeg"
 
 
 function Projects() {
-    // useEffect(() => {
-    //     Aos.init({ duration: 2000 });
-    //   }, []);
+    useEffect(() => {
+        Aos.init({ duration: 2000 });
+      }, []);
   return (
     <>
     
