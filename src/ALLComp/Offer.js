@@ -30,7 +30,7 @@ function Offer() {
        
        <div  class="col-md-4" >
 
-        <img  className="ser"  style={{width: "150px",height: "150px", border: '3px solid #4e382a', borderRadius: '15px',}} src={nav1} alt="img" />
+        <img  className="ser"  style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={nav1} alt="img" />
       
         <p style={{color:"#4e382a"}}  data-aos="zoom-in-right" class="col-md-12 text-center" >➤ Elevator Cladding</p> 
 
@@ -39,13 +39,13 @@ function Offer() {
        </div>
 
        <div class="col-md-4">
-       <img   className="ser"   style={{width: "150px",height: "150px", border: '3px solid #4e382a', borderRadius: '15px',}} src={wood} alt="img" />
+       <img   className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={wood} alt="img" />
 
         
         <p  style={{color:"#4e382a"}}>➤ Wood Work</p>
        </div>
        <div class="col-md-4">
-       <img   className="ser" style={{width: "150px",height: "150px", border: '3px solid #4e382a', borderRadius: '15px',}} src={clad} alt="img" />
+       <img   className="ser" style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={clad} alt="img" />
 
         <p   style={{color:"#4e382a"}}  data-aos="zoom-in-right">➤ Wall Cladding</p>
        </div>
@@ -60,18 +60,18 @@ function Offer() {
             <div/>
        
        <div  class="col-md-4">
-       <img  className="ser"   style={{width: "150px",height: "150px", border: '3px solid #4e382a', borderRadius: '15px',}} src={cntr} alt="img" />
+       <img  className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={cntr} alt="img" />
 
         <p  style={{color:"#4e382a"}}  data-aos="zoom-in-right">➤ Wooden Counter</p>
        </div>
        <div class="col-md-4">
-       <img   className="ser"   style={{width: "150px",height: "150px", border: '3px solid #4e382a', borderRadius: '15px',}} src={doris} alt="img" />
+       <img   className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={doris} alt="img" />
 
         <p  style={{color:"#4e382a"}}>➤ Wooden Hidden Door</p>
        </div>
 
        <div class="col-md-4">
-       <img   className="ser"   style={{width: "150px",height: "150px", border: '3px solid #4e382a', borderRadius: '15px',}} src={ciel} alt="img" />
+       <img   className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={ciel} alt="img" />
  
         <p   style={{color:"#4e382a"}}  data-aos="zoom-in-right">➤ Wood Cieling</p>
        </div>
@@ -86,17 +86,17 @@ function Offer() {
             <div/>
        
        <div  class="col-md-4">
-       <img  className="ser"   style={{width: "150px",height: "150px", border: '3px solid #4e382a', borderRadius: '15px',}} src={part} alt="img" />
+       <img  className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={part} alt="img" />
 
         <p  style={{color:"#4e382a"}}>➤ decorative Partition</p>
        </div>
        <div class="col-md-4">
-       <img   className="ser"   style={{width: "150px",height: "150px", border: '3px solid #4e382a', borderRadius: '15px',}} src={slide} alt="img" />
+       <img   className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={slide} alt="img" />
 
         <p  style={{color:"#4e382a"}}>➤ Wood Sliding Door</p>
        </div>
        <div class="col-md-4">
-       <img  className="ser"   style={{width: "150px",height: "150px", border: '3px solid #4e382a', borderRadius: '15px',}} src={cons} alt="img" />
+       <img  className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={cons} alt="img" />
 
         <p   style={{color:"#4e382a"}}  data-aos="zoom-in-right">➤ Tv Console</p>
        </div>
