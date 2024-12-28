@@ -11,6 +11,7 @@ import seven from "./IMGs/7.jpg"
 import eight from "./IMGs/8.jpg"
 import Ardoor from "./IMGs/Ardoor.jpg"
 import "./Projects.css";
+import kodo from "./IMGs/kodoo.png"
 
 import nimar from "./IMGs/nimar.png"
 import signa from "./IMGs/signa.png"
@@ -22,7 +23,11 @@ import new2 from "./IMGs/n2.jpg"
 import new3 from "./IMGs/n3.jpg"
 import vectr from "./IMGs/Vect.jpeg"
 import Vect2 from "./IMGs/Vect2.jpeg"
-
+import vila from "./IMGs/vilaa.png"
+import haten from "./IMGs/haten.png"
+import smchos from "./IMGs/smaHos.png"
+import hsmA from "./IMGs/hsmAc.png"
+import bank from "./IMGs/bank.png"
 
 
 
@@ -43,9 +48,7 @@ function Projects() {
 
            <div>
         <div class="row text-center  ">
-          <div class="col-md-12 text-center mt-5">
-           
-          </div>
+          
           <div class="col-md-4   mt-4">
             <div
              
@@ -234,9 +237,7 @@ function Projects() {
 
 
         <div class="row text-center  ">
-          <div class="col-md-12 text-center mt-5">
-           
-          </div>
+         
           <div class="col-md-4   mt-4">
             <div
              
@@ -281,6 +282,108 @@ function Projects() {
               </div>
             </div>
           </div>
+        </div>
+
+
+        <div class="row">
+
+        <div class="col-md-4  mt-4 ">
+            <div
+             
+              class="card  card-body rounded "
+              style={{ width: "18rem" }}
+            >
+              <img style={{width: "254.67px",height: "191px"}}  src={vila} class="card-img-top" />
+              <div class="card-body ">
+                <p class="card-text" style={{ color: "#673131" }}>
+              Villa Al Rashid
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4  mt-4 ">
+            <div
+             
+              class="card  card-body rounded "
+              style={{ width: "18rem" }}
+            >
+              <img style={{width: "254.67px",height: "191px"}}  src={kodo} class="card-img-top" />
+              <div class="card-body ">
+                <p class="card-text" style={{ color: "#673131" }}>
+              Kudu Riyadh 
+                </p>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-md-4  mt-4 ">
+            <div
+             
+              class="card  card-body rounded "
+              style={{ width: "18rem" }}
+            >
+              <img style={{width: "254.67px",height: "191px"}}  src={haten} class="card-img-top" />
+              <div class="card-body ">
+                <p class="card-text" style={{ color: "#673131" }}>
+              Hateen Villa
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+          <div class="col-md-4  mt-4 ">
+            <div
+             
+              class="card  card-body rounded "
+              style={{ width: "18rem" }}
+            >
+              <img style={{width: "254.67px",height: "191px"}}  src={smchos} class="card-img-top" />
+              <div class="card-body ">
+                <p class="card-text" style={{ color: "#673131" }}>
+              SMC Hospital
+                </p>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-md-4  mt-4 ">
+            <div
+             
+              class="card  card-body rounded "
+              style={{ width: "18rem" }}
+            >
+              <img style={{width: "254.67px",height: "191px"}}  src={hsmA} class="card-img-top" />
+              <div class="card-body ">
+                <p class="card-text" style={{ color: "#673131" }}>
+              Hashem Accamodation 
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4  mt-4 ">
+            <div
+             
+              class="card  card-body rounded "
+              style={{ width: "18rem" }}
+            >
+              <img style={{width: "254.67px",height: "191px"}}  src={bank} class="card-img-top" />
+              <div class="card-body ">
+                <p class="card-text" style={{ color: "#673131" }}>
+             SABB Bank Makkah
+                </p>
+              </div>
+            </div>
+          </div>
+          </div>
+
+
+
+
         </div>
        
 
