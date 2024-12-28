@@ -60,7 +60,7 @@ const Footer = () => {
         </div>
         <p className="text-center mt-4">&copy; 2024 Shirka Ghala Ibrahim. All rights reserved.</p>
         <div class="row">
-        <p class=" col-md-12 text-center">design by Code&Craft </p>
+        <p class=" col-md-12 text-center">Design by Code&Craft </p>
         <p class=" col-md-12 text-center">Your Website Is call Away</p> 
         <p class=" col-md-12 text-center"> Call At +966503045722</p>
         </div>
