@@ -1,6 +1,17 @@
 import React, { useEffect, useState } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
+import nav1 from "./IMGs/3.jpg"
+import wood from "./IMGs/WoodW.jpg"
+import clad from "./IMGs/clad.png"
+import cntr from "./IMGs/cntr.jpg"
+import doris from "./IMGs/dooris.png"
+import ciel from "./IMGs/ciel.jpg"
+import part from "./IMGs/part.jpg"
+import slide from "./IMGs/slide.jpg"
+import cons from "./IMGs/cons.jpg"
+import "./Ofr.css"
+
 
 
 function Offer() {
@@ -8,21 +19,35 @@ function Offer() {
    
      
   return (
+
+    
     <section id ="offer">
       <div data-aos="flip-up"> 
     <div class="container text-center mt-5">
         <div class="row">
-        <h1 style={{fontSize:50, color:"#4e382a"}} class="col-md-12 text-center"  data-aos="zoom-in-left">What We Offer</h1>
+        <h1  class="col-md-12 text-center"  data-aos="zoom-in-left">What We Offer</h1>
             <div/>
        
-       <div  class="col-md-4">
-        <h3  style={{color:"#4e382a"}}>➤ Elevator Cladding</h3>
+       <div  class="col-md-4" >
+
+        <img  className="ser"  style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={nav1} alt="img" />
+      
+        <p style={{color:"#4e382a"}}  class="col-md-12 text-center"  data-aos="zoom-in">➤ Elevator Cladding</p>
+
+        
+
+       </div>
+
+       <div class="col-md-4">
+       <img   className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={wood} alt="img" />
+
+        
+        <p  style={{color:"#4e382a"}}>➤ Wood Work</p>
        </div>
        <div class="col-md-4">
-        <h3  style={{color:"#4e382a"}}>➤ Wood Work</h3>
-       </div>
-       <div class="col-md-4">
-        <h3   style={{color:"#4e382a"}} >➤ Wall Cladding</h3>
+       <img   className="ser" style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={clad} alt="img" />
+
+        <p   style={{color:"#4e382a"}} >➤ Wall Cladding</p>
        </div>
 
             
@@ -35,13 +60,20 @@ function Offer() {
             <div/>
        
        <div  class="col-md-4">
-        <h3  style={{color:"#4e382a"}} >➤ Wooden Counter</h3>
+       <img  className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={cntr} alt="img" />
+
+        <p  style={{color:"#4e382a"}} >➤ Wooden Counter</p>
        </div>
        <div class="col-md-4">
-        <h3  style={{color:"#4e382a"}}>➤ Wooden Hidden Door</h3>
+       <img   className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={doris} alt="img" />
+
+        <p  style={{color:"#4e382a"}}>➤ Wooden Hidden Door</p>
        </div>
+
        <div class="col-md-4">
-        <h3   style={{color:"#4e382a"}} >➤ Wood Cieling</h3>
+       <img   className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={ciel} alt="img" />
+ 
+        <p   style={{color:"#4e382a"}} >➤ Wood Cieling</p>
        </div>
 
             
@@ -54,13 +86,19 @@ function Offer() {
             <div/>
        
        <div  class="col-md-4">
-        <h3  style={{color:"#4e382a"}}>➤ decorative Partition</h3>
+       <img  className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={part} alt="img" />
+
+        <p  style={{color:"#4e382a"}}>➤ decorative Partition</p>
        </div>
        <div class="col-md-4">
-        <h3  style={{color:"#4e382a"}}>➤ Wood Sliding Door</h3>
+       <img   className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={slide} alt="img" />
+
+        <p  style={{color:"#4e382a"}}>➤ Wood Sliding Door</p>
        </div>
        <div class="col-md-4">
-        <h3   style={{color:"#4e382a"}} >➤ Tv Console</h3>
+       <img  className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={cons} alt="img" />
+
+        <p   style={{color:"#4e382a"}} >➤ Tv Console</p>
        </div>
 
             
