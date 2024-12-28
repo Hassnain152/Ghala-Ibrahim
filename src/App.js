@@ -20,7 +20,6 @@ function App() {
 
     <Navbar/>
     <Home/>
-    
     <Clients/>
     <Offer/>
     <Projects/>
