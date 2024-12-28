@@ -41,7 +41,7 @@ function Projects() {
     <section id='projects'>
   
            <div class="container mt-5 text-center ">
-          <div class="container text-center">
+          
         <div class="row">
         <h1 class="col-md-12 text-center"  style={{fontSize:50, color:"#4e382a" , }} data-aos="zoom-in-right">Our Projects</h1>
         </div>
@@ -396,7 +396,7 @@ function Projects() {
 
 
 
-    </div>
+    
     </section>
     </>
   )
