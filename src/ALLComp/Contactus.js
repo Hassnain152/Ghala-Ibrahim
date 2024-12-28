@@ -116,7 +116,7 @@ function Contactus() {
 
 
         <div className="call">
-        <a href="https://wa.me/+923176279223 ">
+        <a href="https://wa.me/+966590752215 ">
           <img class="text-center" style={{ width: 50 }} src={whtsapp}  />
         </a>
         <p style={{ fontWeight: "bold", color: "black" }}></p>
