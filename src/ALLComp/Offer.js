@@ -32,7 +32,7 @@ function Offer() {
 
         <img  className="ser"  style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={nav1} alt="img" />
       
-        <p style={{color:"#4e382a"}}  class="col-md-12 text-center"  data-aos="zoom-in">➤ Elevator Cladding</p>
+        <p style={{color:"#4e382a"}}  class="col-md-12 text-center" data-aos="zoom-in-right">➤ Elevator Cladding</p> 
 
         
 
