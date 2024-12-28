@@ -32,7 +32,7 @@ function Offer() {
 
         <img  className="ser"  style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={nav1} alt="img" />
       
-        <p style={{color:"#4e382a"}}  class="col-md-12 text-center" data-aos="zoom-in-right">➤ Elevator Cladding</p> 
+        <p style={{color:"#4e382a"}}  data-aos="zoom-in-right" class="col-md-12 text-center" >➤ Elevator Cladding</p> 
 
         
 
@@ -47,7 +47,7 @@ function Offer() {
        <div class="col-md-4">
        <img   className="ser" style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={clad} alt="img" />
 
-        <p   style={{color:"#4e382a"}} >➤ Wall Cladding</p>
+        <p   style={{color:"#4e382a"}}  data-aos="zoom-in-right">➤ Wall Cladding</p>
        </div>
 
             
@@ -62,7 +62,7 @@ function Offer() {
        <div  class="col-md-4">
        <img  className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={cntr} alt="img" />
 
-        <p  style={{color:"#4e382a"}} >➤ Wooden Counter</p>
+        <p  style={{color:"#4e382a"}}  data-aos="zoom-in-right">➤ Wooden Counter</p>
        </div>
        <div class="col-md-4">
        <img   className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={doris} alt="img" />
@@ -73,7 +73,7 @@ function Offer() {
        <div class="col-md-4">
        <img   className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={ciel} alt="img" />
  
-        <p   style={{color:"#4e382a"}} >➤ Wood Cieling</p>
+        <p   style={{color:"#4e382a"}}  data-aos="zoom-in-right">➤ Wood Cieling</p>
        </div>
 
             
@@ -98,7 +98,7 @@ function Offer() {
        <div class="col-md-4">
        <img  className="ser"   style={{width: "200px",height: "200px", border: '3px solid #4e382a', borderRadius: '15px',}} src={cons} alt="img" />
 
-        <p   style={{color:"#4e382a"}} >➤ Tv Console</p>
+        <p   style={{color:"#4e382a"}}  data-aos="zoom-in-right">➤ Tv Console</p>
        </div>
 
             
