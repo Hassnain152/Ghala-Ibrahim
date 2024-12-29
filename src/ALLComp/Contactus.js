@@ -36,7 +36,7 @@ function Contactus() {
          <br/>
          <br/>
          <h3>M.Nouman</h3>
-         <h3>Gernal Manager</h3>
+         <h3> General Manager</h3>
          <FontAwesomeIcon style={{color:"blue"}} icon={faEnvelope}  bounce />
          <p style={{color:"blue"}}>  mohammad.nauman@ghalaibrahimalr.com  </p>
            </div>
