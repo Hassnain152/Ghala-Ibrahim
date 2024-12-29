@@ -17,7 +17,7 @@ function App() {
         }, []);
   return (
     <>
-
+    <div class="container">
     <Navbar/>
     <Home/>
     <Clients/>
@@ -26,6 +26,9 @@ function App() {
     <Contactus/>
     <Aboutus/>
     <Footer/>
+    </div>
+
+    
 
     
     </>
