@@ -59,6 +59,7 @@ function Projects() {
               <img   style={{width: "254.67px",height: "191px"}} 
               src={nimar} class="card-img-top" />
               <div>
+             
                 <p class="card-text" style={{ color: "#673131" }} >
                Dallah Namar Hospital 
                 </p>
@@ -87,6 +88,9 @@ function Projects() {
               style={{ width: "18rem" }}
             >
               <img style={{width: "254.67px",height: "191px"}}  src={Ardoor} class="card-img-top" />
+
+          
+
               <div class="card-body ">
                 <p class="card-text" style={{ color: "#673131" }}>
               Hashem Courts Project
