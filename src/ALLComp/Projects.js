@@ -12,7 +12,7 @@ import eight from "./IMGs/8.jpg"
 import Ardoor from "./IMGs/Ardoor.jpg"
 import "./Projects.css";
 import kodo from "./IMGs/kodoo.png"
-import nakel from "./IMGs/nakel.png"
+import nakeel from "./IMGs/nakel.png"
 
 import nimar from "./IMGs/nimar.png"
 import signa from "./IMGs/signa.png"
@@ -104,7 +104,7 @@ function Projects() {
               class="card  card-body rounded "
               style={{ width: "18rem" }}
             >
-              <img style={{width: "254.67px",height: "191px"}}  src={nakel} class="card-img-top" />
+              <img style={{width: "254.67px",height: "191px"}}  src={nakeel} class="card-img-top" />
               <div class="card-body ">
                 <p class="card-text" style={{ color: "#673131" }}>
                 Dallah Nakheel
