@@ -30,13 +30,13 @@ function Contactus() {
           </div>
           <div class="col-md-6 mt-5 text-center" data-aos="zoom-in"  >
           <h3>Arif Sattar</h3>
-         <h3>Position</h3>
+         <h3>CEO</h3>
          <FontAwesomeIcon style={{color:"blue"}} icon={faEnvelope}  bounce />
          <p style={{color:"blue"}}> arifsattar@ghalaibrahimalr.com</p>
          <br/>
          <br/>
          <h3>M.Nouman</h3>
-         <h3>Position</h3>
+         <h3>Gernal Manager</h3>
          <FontAwesomeIcon style={{color:"blue"}} icon={faEnvelope}  bounce />
          <p style={{color:"blue"}}>  mohammad.nauman@ghalaibrahimalr.com  </p>
            </div>
