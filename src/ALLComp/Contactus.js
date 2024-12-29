@@ -44,7 +44,7 @@ function Contactus() {
          <h3>M.Nouman</h3>
          <h3>Position</h3>
          <FontAwesomeIcon style={{color:"blue"}} icon={faEnvelope}  bounce />
-         <p style={{color:"blue"}}>  mohammed.nauman1987@ghalaibrahimalr.com  </p>
+         <p style={{color:"blue"}}>  mohammad.nauman@ghalaibrahimalr.com  </p>
 
          
         
