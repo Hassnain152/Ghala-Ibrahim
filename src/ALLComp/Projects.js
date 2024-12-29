@@ -54,7 +54,7 @@ function Projects() {
             <div
              
               class="card  card-body rounded "
-              style={{ width: "18rem" }} //this color is for test u can change
+              style={{ width: "18rem" }} //this color is for test u can change 
             >
               <img   style={{width: "254.67px",height: "191px"}} 
               src={nimar} class="card-img-top" />
