@@ -14,7 +14,7 @@ const Footer = () => {
           {/* Facebook */}
           <div className="col-auto">
             <a
-              href="https://www.facebook.com"
+              href="https://www.facebook.com/profile.php?id=61571318099781&mibextid=ZbWKwL"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary"
