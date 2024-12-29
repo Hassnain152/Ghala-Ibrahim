@@ -7,7 +7,7 @@ import Clients from "./ALLComp/Clients";
 import Projects from "./ALLComp/Projects";
 import Footer from "./ALLComp/Footer";
 import Aboutus from "./ALLComp/Aboutus";
-import React, { useEffect, useState } from "react";
+import React, { useEffect,  } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
