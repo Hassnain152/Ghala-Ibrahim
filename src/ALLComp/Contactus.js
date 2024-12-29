@@ -37,14 +37,14 @@ function Contactus() {
          <h3>Arif Sattar</h3>
          <h3>Position</h3>
          <FontAwesomeIcon style={{color:"blue"}} icon={faEnvelope}  bounce />
-         <a style={{color:"blue"}}> arifsattar@ghalaibrahimalr.com</a>
+         <p style={{color:"blue"}}> arifsattar@ghalaibrahimalr.com</p>
          <br/>
          <br/>
 
          <h3>M.Nouman</h3>
          <h3>Position</h3>
          <FontAwesomeIcon style={{color:"blue"}} icon={faEnvelope}  bounce />
-         <a style={{color:"blue"}}>mohammed.nauman1987@ghalaibrahimalr.com</a>
+         <p style={{color:"blue"}}>  mohammed.nauman1987@ghalaibrahimalr.com  </p>
 
          
         
