@@ -1,4 +1,5 @@
 import logo from "./IMGs/last.png";
+import logo2 from "./IMGs/ulo.png"
 import React, { useEffect, useState } from "react";
 import "./Navbar.css";
 import "./App.css";
@@ -29,7 +30,7 @@ function Navbar() {
               className="logoo"
               data-aos="slide-down"
               data-aos-delay="100"
-              src={logo}
+              src={logo2}
               alt="Logo"
               style={{
                 width: "130px",
