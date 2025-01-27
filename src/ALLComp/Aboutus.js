@@ -8,7 +8,7 @@ const AboutUs = () => {
   return (
     <section  id="Aboutus">
       <div className="container text-center">
-      <h1 style={{fontSize:50, color:"#4e382a"}} class="col-md-12 text-center"  data-aos="zoom-in-left">About Us</h1>
+      <h1 style={{fontSize:50, color:"#4e382a"}} class="col-md-12 text-center"  data-aos="zoom-in">About Us</h1>
         <div class="col-md-12">
         <p className="description">
          <b>Welcome</b>  to our company! We specialize in creating bespoke furniture and exquisite decorations that transform your spaces into masterpieces. Our commitment to quality, craftsmanship, and customer satisfaction has been the cornerstone of our <b>success</b>.

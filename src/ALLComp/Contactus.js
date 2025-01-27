@@ -26,7 +26,7 @@ function Contactus() {
         </h1>
         <div class="row">
           <div class="col-md-6">
-           <img style={{width:"500px", height:"500px"}} src={lopo}/>
+           <img style={{width:"250px", height:"250px"}} src={lopo}/>
           </div>
           <div class="col-md-6 mt-5 text-center" data-aos="zoom-in"  >
           <h3>Arif Sattar</h3>
