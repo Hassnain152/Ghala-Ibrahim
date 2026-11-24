@@ -1,4 +1,5 @@
 import Navbar from "./ALLComp/Navbar"
+import react from 'react'
 import './App.css'
 import Home from "./ALLComp/Home"
 import Contactus from "./ALLComp/Contactus";
